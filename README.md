@@ -49,7 +49,7 @@
 | | |
 |---|---|
 | 📍 Location | Tizi Ouzou, Algeria 🇩🇿 |
-| 📧 Email | [aniszamoumm@gmai.com](mailto:aniszamoumm@gmai.com) |
+| 📧 Email | [aniszamoumm@gmai.com](mailto:aniszamoumm@gmail.com) |
 | 🐙 GitHub | [@aniszeyy](https://github.com/aniszeyy) |
 | PORTFOLIO | [@aniszeyy](https://aniszeyy.github.io/) |
 </div>
